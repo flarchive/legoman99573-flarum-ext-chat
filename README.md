@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of legoman99573/flarum-ext-chat.** Not for installation: use [Packagist](https://packagist.org/packages/legoman99573/flarum-ext-chat) or the [upstream repository](https://github.com/Legoman99573/flarum-ext-chat).
 
-**0** versions archived · Latest: [`1.2`](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v1.2) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**26** versions archived · Latest: [`1.2`](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v1.2) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.1) |
+| `0.1.10` | 2016-05-18 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.10) |
+| `0.1.2` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.2) |
+| `0.1.3` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.3) |
+| `0.1.4` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.4) |
+| `0.1.5` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.5) |
+| `0.1.6` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.6) |
+| `0.1.7` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.7) |
+| `0.1.8` | 2016-05-14 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/legoman99573-flarum-ext-chat/tree/archive/v0.1.8) |
+
+[View all 26 versions](https://github.com/flarchive/legoman99573-flarum-ext-chat/tags)
 
 Catalog entry: [packages/legoman99573-flarum-ext-chat.json](https://github.com/flarchive/archive-index/blob/main/packages/legoman99573-flarum-ext-chat.json)
 
